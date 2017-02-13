@@ -10,8 +10,10 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "bwt-datatable": "bluewatertracks/bwt-datatable",
     "iron-data-table": "Saulis/iron-data-table",
     "paper-datatable": "David-Mulder/paper-datatable",
+    "paper-datatable-api": "RoXuS/paper-datatable-api",
     "vaadin-grid": "vaadin/vaadin-grid"
   },
   "private": true
