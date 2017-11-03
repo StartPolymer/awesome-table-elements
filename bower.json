@@ -10,10 +10,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "brainy-table": "OWOX/brainy-table",
-    "bwt-datatable": "bluewatertracks/bwt-datatable",
-    "iron-data-table": "Saulis/iron-data-table",
-    "paper-datatable": "David-Mulder/paper-datatable",
     "paper-datatable-api": "RoXuS/paper-datatable-api",
     "s-table": "StartPolymer/s-table",
     "vaadin-grid": "vaadin/vaadin-grid"
