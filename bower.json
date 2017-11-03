@@ -10,13 +10,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "brainy-table": "OWOX/brainy-table",
-    "bwt-datatable": "bluewatertracks/bwt-datatable",
-    "iron-data-table": "Saulis/iron-data-table",
-    "paper-datatable": "David-Mulder/paper-datatable",
-    "paper-datatable-api": "RoXuS/paper-datatable-api",
-    "s-table": "StartPolymer/s-table",
-    "vaadin-grid": "vaadin/vaadin-grid"
+    "brainy-table": "OWOX/brainy-table#^1.0.0",
+    "bwt-datatable": "bluewatertracks/bwt-datatable#^1.0.0",
+    "paper-datatable-api": "RoXuS/paper-datatable-api#^0.4.2",
+    "s-table": "StartPolymer/s-table#^0.2.2",
+    "vaadin-grid": "vaadin/vaadin-grid#^3.0.0"
   },
   "private": true
 }
